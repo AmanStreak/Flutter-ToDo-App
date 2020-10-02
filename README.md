@@ -1,6 +1,6 @@
 # mytodo
 
-A new Flutter application.
+A new Flutter application for todo list
 
 ## Getting Started
 
